@@ -18,8 +18,7 @@ class App extends React.Component {
           </div>
         </div>
         <br />
-        <div id="repos" className="ui text container">
-        </div>
+        <div id="repos" className="ui text container"></div>
       </div>
     );
   }
